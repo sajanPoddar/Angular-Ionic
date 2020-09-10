@@ -1,14 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  "employees": [
+    { "id": 1,"name": "Sajan","email": "sajanpoddar98@gmail.com","address": "Lakshmipur","birth_date":"1992-08-20","designation":"Software Associate","employee_ID":"001" },
+{ "id": 2,"name": "Poddar","email": "sajanpoddar99@gmail.com","address": "Dhaka","birth_date":"1992-08-20","designation":"Software Associate","employee_ID":"002" }
+  ]
+
